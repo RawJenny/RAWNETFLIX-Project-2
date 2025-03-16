@@ -1,8 +1,9 @@
 NETFLIX USER DATA ANALYSIS is an analysis that looks into user subscription data over a given period, focusing on revenue distribution across different countries, user demographics such as age and gender, and device usage patterns, and how these affect overall revenue performance and user engagement.
+![NETFLIX DASHBOARD BY REWJENNY](https://github.com/user-attachments/assets/d9ffc938-0dbb-44bd-8789-ba7c2524f21c)
 
 Below are my key insights/observations and recommendations:
 
-OBSERVATIONS![NETFLIX DASHBOARD BY REWJENNY](https://github.com/user-attachments/assets/ad3df63a-27ff-46a3-8e16-84060d7eae21)
+OBSERVATIONS!
 
 
 1. Steady Growth in Monthly Revenue with a Spike in October
